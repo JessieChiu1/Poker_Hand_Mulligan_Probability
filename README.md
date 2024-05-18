@@ -1,4 +1,7 @@
-# 1 The puzzle
+# The puzzle
+
+**This was originally a coding challenge I completed!**
+
 ## Instructions
 
 Imagine you are given a deck of playing cards (a regular 52 card deck), which is shuffled face down. Then you draw five cards off the top. That hand is a 5-card poker hand.
@@ -21,7 +24,7 @@ This command will:
 2. Calculate the probability of having a better hand for each retained hand scenario.
 3. Print the best retained hand and its corresponding better hand probability.
 
-## TFiles
+## The Files
 
 **classes:**
 1. card.py
